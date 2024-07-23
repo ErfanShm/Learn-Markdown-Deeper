@@ -6,6 +6,7 @@ Welcome to the "Learn Markdown Deeper" repository! This guide is designed to hel
 
 ## Overview
 
+
 This notebook provides an in-depth exploration of Markdown, covering fundamental syntax, advanced formatting techniques, and practical applications across different platforms. Whether you're writing technical documentation, creating web content, or documenting code in Jupyter Notebooks, mastering Markdown can significantly improve your productivity and the clarity of your text.
 
 Throughout this guide, you'll learn how to:
